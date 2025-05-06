@@ -19,7 +19,6 @@ A modern, full-screen DNS configuration tool with controller support, designed f
 - Google DNS
 - Cloudflare DNS
 - OpenDNS
-- Default System DNS
 
 ## Installation
 
