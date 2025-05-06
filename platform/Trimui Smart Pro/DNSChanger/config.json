@@ -1,0 +1,6 @@
+{
+    "label": "DNSChanger",
+    "icon":	"icon.png",
+    "launch":	"launch.sh",
+    "description": "DNSChanger an app to change DNS"
+}
