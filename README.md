@@ -83,19 +83,14 @@ python main.py
 The application reads DNS configurations from `dns_list.json`. Here's an example format:
 
 ```json
-{
-  "dns_servers": [
+
+[
     {
       "name": "Google DNS",
       "primary": "8.8.8.8",
       "secondary": "8.8.4.4"
     },
-    {
-      "name": "Cloudflare DNS",
-      "primary": "1.1.1.1",
-      "secondary": "1.0.0.1"
-    }
-  ]
-}
+    ...
+]
 ```
 
