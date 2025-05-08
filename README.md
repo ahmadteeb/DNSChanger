@@ -10,8 +10,6 @@ A modern, full-screen DNS configuration tool with controller support, designed f
 - 🖥️ Full-screen modern interface
 - 🌙 Beautiful dark theme
 - ⚡ Quick DNS switching
-- 📱 Touch-friendly interface
-- 🎨 Smooth animations and transitions
 - 🔄 Automatic screen scaling
 
 ## Supported DNS Servers
@@ -23,7 +21,7 @@ A modern, full-screen DNS configuration tool with controller support, designed f
 ## Installation
 
 1. Download the latest release.
-    - https://github.com/ahmadteeb/DNSChanger/releases
+    - https://github.com/ahmadteeb/TSP_DNSChanger/releases
 2. Extract the downloaded file to:
     - /mnt/SDCARD/Apps/
 
@@ -40,7 +38,7 @@ A modern, full-screen DNS configuration tool with controller support, designed f
 1. Clone the repository:
 ```bash
 git clone [repository-url]
-cd DNSChanger
+cd TSB_DNSChanger
 ```
 
 2. Using WSL2 run the docker container inside tools directory and place the code inside workspace:
