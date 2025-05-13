@@ -2,6 +2,16 @@
 
 A modern, full-screen DNS configuration tool with controller support, designed for easy DNS server switching.
 
+## ☕ Support Me
+If you like this project, consider supporting me on Ko-fi:
+
+<p align="center" >
+    <a href="https://ko-fi.com/ahmadteeb/?hidefeed=true&widget=true&isPopup=true">
+        <img src="https://cdn.ko-fi.com/cdn/kofi5.png?v=3" />
+    </a>
+</p>
+
+## 📸 Screenshot
 ![DNS Changer Screenshot](screenshot.png)
 
 ## Features
