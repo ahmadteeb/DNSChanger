@@ -20,8 +20,6 @@ If you like this project, consider supporting me on Ko-fi:
 - 🖥️ Full-screen modern interface
 - 🌙 Beautiful dark theme
 - ⚡ Quick DNS switching
-- 📱 Touch-friendly interface
-- 🎨 Smooth animations and transitions
 - 🔄 Automatic screen scaling
 
 ## Supported DNS Servers
@@ -33,7 +31,7 @@ If you like this project, consider supporting me on Ko-fi:
 ## Installation
 
 1. Download the latest release.
-    - https://github.com/ahmadteeb/DNSChanger/releases
+    - https://github.com/ahmadteeb/TSP_DNSChanger/releases
 2. Extract the downloaded file to:
     - /mnt/SDCARD/Apps/
 
@@ -50,7 +48,7 @@ If you like this project, consider supporting me on Ko-fi:
 1. Clone the repository:
 ```bash
 git clone [repository-url]
-cd DNSChanger
+cd TSB_DNSChanger
 ```
 
 2. Using WSL2 run the docker container inside tools directory and place the code inside workspace:
@@ -93,19 +91,14 @@ python main.py
 The application reads DNS configurations from `dns_list.json`. Here's an example format:
 
 ```json
-{
-  "dns_servers": [
+
+[
     {
       "name": "Google DNS",
       "primary": "8.8.8.8",
       "secondary": "8.8.4.4"
     },
-    {
-      "name": "Cloudflare DNS",
-      "primary": "1.1.1.1",
-      "secondary": "1.0.0.1"
-    }
-  ]
-}
+    ...
+]
 ```
 
