@@ -3,11 +3,11 @@
 A modern, full-screen DNS configuration tool with controller support, designed for easy DNS server switching.
 
 ## ☕ Support Me
-If you like this project, consider supporting me on Ko-fi:
+If you like this project, consider supporting me on Buymeacoffee:
 
 <p align="center" >
-    <a href="https://ko-fi.com/ahmadteeb/?hidefeed=true&widget=true&isPopup=true">
-        <img src="https://cdn.ko-fi.com/cdn/kofi5.png?v=3" />
+    <a href="https://buymeacoffee.com/ahmadteeb">
+        <img width="500px" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ahmadteeb&button_colour=4f4f4f&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=ffffff" />
     </a>
 </p>
 
